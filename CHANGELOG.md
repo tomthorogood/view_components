@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 0.0.120
+
+### Patch Changes
+
+- [#1768](https://github.com/primer/view_components/pull/1768) [`fe8e7071`](https://github.com/primer/view_components/commit/fe8e7071d90aa6bc8fe838fb75af384466f31bfa) Thanks [@jdennes](https://github.com/jdennes)! - Add RuboCop::Cop::Primer::TestSelector to encourage use of the test_selector argument
+
 ## 0.0.119
 
 ### Patch Changes
